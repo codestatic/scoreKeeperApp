@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ultimate Frisbee</string>
+    <string name="team_a">Team A \nScore</string>
+    <string name="team_b">Team B \nScore</string>
+    <string name="foul">Fouls</string>
+    <string name="_0_point_a">0</string>
+    <string name="_0_foul_a">0</string>
+    <string name="_1_point">1 Point</string>
+    <string name="foul_button">Foul</string>
+    <string name="_0_point_b">0</string>
+    <string name="_0_foul_b">0</string>
+    <string name="_1_point_b">1 Point</string>
+    <string name="foul_b">Foul</string>
+    <string name="reset">Reset</string>
+</resources>

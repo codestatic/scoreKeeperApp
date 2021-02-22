@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_top_margin">12dp</dimen>
+    <dimen name="large_top_margin">16dp</dimen>
+    <dimen name="small_top_margin">8dp</dimen>
+    <dimen name="exlarge_top_margin">22dp</dimen>
+</resources>
